@@ -1,0 +1,28 @@
+
+body{
+    margin: 0;
+    text-align: center;
+    font-family: 'Sacramento', cursive;
+    background-color: #ECF9FF;
+}
+.top{
+    background-color:#ECF9FF;
+    position: relative;
+    padding-top:50px ;
+}
+.bottom-cloud{
+    position: absolute;
+   left: 50px;
+}
+.profile{
+ border-radius: 50%;
+ 
+}
+
+
+
+  
+
+   
+
+
